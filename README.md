@@ -10,4 +10,6 @@ Coursework for LNG208 Psycholinguistics AY25-26
 
 Pilot Study: Predictability × WMC × Proficiency
 
-Keywords: Bilingualism,language prediction,working memory capacity,L2 proficiency
+Keywords: Bilingualism,language prediction,working memory capacity,L2 proficiency,Self-paced Reading
+
+########交互作用的拆解:simple effect/slope
