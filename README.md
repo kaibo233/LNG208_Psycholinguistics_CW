@@ -13,3 +13,5 @@ Pilot Study: Predictability × WMC × Proficiency
 Keywords: Bilingualism,language prediction,working memory capacity,L2 proficiency,Self-paced Reading
 
 ########交互作用的拆解:simple effect/slope
+########跑模型的意义：预测未来，找pattern
+########诚实汇报effect size，但真的很小啊！
