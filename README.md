@@ -5,3 +5,6 @@ Link:https://www.bilibili.com/video/BV1jY5yzzErF/?spm_id_from=333.1387.favlist.c
 
 
 Coursework for LNG208 Psycholinguistics AY25-26
+
+Pilot Study: Predictability × WMC × Proficiency
+
