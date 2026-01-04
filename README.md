@@ -1,4 +1,4 @@
-# -LMM-
+# -LNG208 CW-
 R script (Linear mixed-effects model_first time practice)
 谢谢B站UP主Dustafra老师的hands-on tutorial:)
 Link:https://www.bilibili.com/video/BV1jY5yzzErF/?spm_id_from=333.1387.favlist.content.click&vd_source=5f8558413c06cd40e626927e720ecdcb
