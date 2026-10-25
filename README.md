@@ -1,17 +1,6 @@
 # -LNG208 CW-
-R script (Linear mixed-effects model_first time practice)
-谢谢B站UP主Dustafra老师的hands-on tutorial:)
-Link:https://www.bilibili.com/video/BV1jY5yzzErF/?spm_id_from=333.1387.favlist.content.click&vd_source=5f8558413c06cd40e626927e720ecdcb
-
-###写(抄)代码其实挺爽的哈哈
-
-
-Coursework for LNG208 Psycholinguistics AY25-26
-
-Pilot Study: Predictability × WMC × Proficiency
-
-Keywords: Bilingualism,language prediction,working memory capacity,L2 proficiency,Self-paced Reading
-
-########交互作用的拆解:simple effect/slope
-########跑模型的意义：预测未来，找pattern
-########诚实汇报effect size，但真的很小啊！
+Analysis Script, Stimuli and Data for Prediction in Chinese-English Bilinguals: The relationship between prediction and working memory capacity.
+This is my first behavioral experiment (collaborate with Ms Minjie Liu) in LNG208 Psycholinguistics.
+Here, we find an interesting three-way interaction using self-paced reading paradigm:L2proficiency * Predictability *WMC(OSPAN)
+A hypothesis: WMC alone is not the modulator in L2 prediction, it serves as the modulator of modulator, which echoes with the opinion "WM effiency matters more than capacity in L2 processing."
+LMEM,simple slope,interaction analysis were employed.
