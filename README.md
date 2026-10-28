@@ -1,7 +1,7 @@
 # -LNG208 CW-
-Analysis Script, Stimuli and Data for Prediction in Chinese-English Bilinguals: The relationship between prediction and working memory capacity.
+Analysis Script, Stimuli and Data for Working memory capacity, L2 proficiency, and predictability in Chinese–English bilinguals: An exploratory self-paced reading study
 
-This is my first behavioral experiment (collaborate with Ms Minjie Liu) in LNG208 Psycholinguistics (Supervised by Dr Dawei Wei).
+This is my first behavioral experiment (collaborated with Ms Minjie Liu, thank you for creating stimuli and collecting data with me!) in LNG208 Psycholinguistics (Supervised by Dr Dawei Wei).
 
 Here, we found an interesting three-way interaction using self-paced reading paradigm: L2proficiency * Predictability * WMC(OSPAN)!
 
