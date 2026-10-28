@@ -112,6 +112,9 @@ df2$logRT=log(df2$RT)
 qqnorm(df2$logRT)
 qqline(df2$logRT)
 hist(df2$logRT,breaks=30, main = "Histogram of R" , xlab= "RT")
+contrasts(df2$Predictability) <- c(0.5, -0.5)
+contrasts(df2$WMC) <- c(0.5, -0.5)
+
 
 #3.Modelling
 install.packages("lme4")
